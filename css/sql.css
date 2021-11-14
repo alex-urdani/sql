@@ -1,0 +1,19 @@
+body{
+    background-color: #707070;
+}
+.container{
+    width: 95%;
+    max-width: 980px;
+    margin: auto;
+    background-color: #676965;
+}
+
+img{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.sql{
+   margin-bottom: 1rem;
+}
